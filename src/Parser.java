@@ -45,7 +45,7 @@ public class Parser {
                 UID         = currentLine[8];
                 details.add(UID);
 
-                convertStrings(details);
+                //convertStrings(details);
 
 
 
